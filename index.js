@@ -1,3 +1,3 @@
-module.exports = (elem) => {
-  console.log(elem);
-}
+module.exports = (str) => {
+    console.log(str.split());
+};

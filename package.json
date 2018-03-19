@@ -1,6 +1,6 @@
 {
   "name": "rem-css",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "package to rem",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "demo"
+    "url": "git+https://github.com/vitaliitsupylo/rem-css.git"
   },
   "keywords": [
     "package",
