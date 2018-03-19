@@ -1,0 +1,21 @@
+{
+  "name": "rem-css",
+  "version": "1.0.0",
+  "description": "package to rem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "demo"
+  },
+  "keywords": [
+    "package",
+    "px",
+    "to",
+    "rem"
+  ],
+  "author": "package px to rem <vitalii.tsupylo@gmail.com>",
+  "license": "ISC"
+}
