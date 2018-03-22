@@ -1,5 +1,5 @@
-const fs = require('fs');
-module.exports = (str) => {
+const replace = require('./modules/replace');
 
-    console.log(str.split());
+module.exports = (string) => {
+    return replace(string);
 };
