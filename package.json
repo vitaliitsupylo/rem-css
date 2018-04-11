@@ -1,6 +1,6 @@
 {
   "name": "rem-css",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "package to rem",
   "main": "index.js",
   "scripts": {
